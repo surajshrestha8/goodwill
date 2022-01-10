@@ -1,0 +1,21 @@
+.navbar {
+    background-color:#081336 ;
+    width: 100%;
+    height:80px;
+    display: flex;
+    color: #E5E5E5;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+
+.navlist {
+    margin-right:40px;
+    margin-left: 40px;
+    font-family: 'Quicksand';
+    font-weight: 100;
+    font-size: large;
+    color:#E5E5E5;
+    cursor: pointer;
+    
+}

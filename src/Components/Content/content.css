@@ -1,0 +1,48 @@
+.content {
+    width: 100%;
+    height: fit-content;
+    background-color: #081336;
+    padding-top: 40px;
+    margin-bottom: 0px;
+
+
+}
+
+
+
+.contentDescription {
+    font-family: 'Quicksand';
+    font-size: large;
+    padding-top: 1px;
+    margin-top: 1px;
+    text-align: center;
+    color:#858484;
+}
+
+.contentHeader {
+    font-family: 'Oswald';
+    font-size: 400;
+}
+
+.imagesContainer {
+    height: fit-content;
+    display: flex;
+    padding-bottom: 20px;
+    justify-content: space-evenly;
+
+}
+.contentBody {
+    width: 400px;
+    height: 400px;
+}
+
+.contentImage{
+    width: auto;
+    height: 220px;
+}
+.callButton {
+    transform: none;
+    width: 250px;
+    height:60px;
+}
+

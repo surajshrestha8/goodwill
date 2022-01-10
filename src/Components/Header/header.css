@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+
+.headerInfo {
+    width: 100%;
+    height:fit-content;
+    background-color: #09143D;
+    display: block;
+    padding-bottom: 50px;
+    
+}
+
+
+.brandName {
+    font-family: 'Oswald';
+    font-size: 150px;
+    color: #09143D;
+    text-shadow: -1px -1px 0 #625306, 1px -1px 0 #625306, -1px 1px 0 #625306, 1px 1px 0 #625306;
+  
+}
+
+.brandDetails {
+    font-family: 'Quicksand';
+    color: white;
+    text-align: left;
+    margin-left: 100px;
+}
+
+.brand {
+    height:50px;
+    width:400px;
+    background-color:#625306;
+    margin-left: 100px;
+    border-radius: 5px;
+    font-family: 'Quicksand';
+    justify-content: center;
+    color: #E5E5E5;
+    font-size: xx-large;
+}
+
+.buttonGroup {
+    margin-top: 50px;
+    margin-left: 100px;
+    display: flex;
+}
+
+.buttonSlanted {
+    height: 50px;
+    width: 200px;
+    transform: skew(-15deg);
+    margin-right: 5px;
+    background-color: #CFB52D;
+    font-family: 'Quicksand';
+    color: black;
+    border: none;
+    font-weight:bolder;
+    font-size: larger;
+    
+}
